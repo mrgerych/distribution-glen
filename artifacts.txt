@@ -1,0 +1,2 @@
+https://11791-75002833-gh.circle-artifacts.com/0/ios/Centriq.app.dSYM.zip
+https://11791-75002833-gh.circle-artifacts.com/0/ios/Centriq.ipa
